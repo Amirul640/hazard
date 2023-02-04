@@ -70,7 +70,7 @@ public class ProfileFragment extends Fragment implements  AdapterView.OnItemClic
     public void showDialog(){
         AlertDialog alertDialog = new AlertDialog.Builder(getContext()).create();
         alertDialog.setTitle("Copyright");
-        alertDialog.setMessage("Hazard Crowsourcing Mobile Application ©2021 Hazard Crowsourcing, Inc. All Right Reserved ");
+        alertDialog.setMessage("Hazard Crowsourcing Mobile Application ©2023 Hazard Crowsourcing, Inc. All Right Reserved ");
         // Alert dialog button
         alertDialog.setButton(AlertDialog.BUTTON_NEUTRAL, "OK",
                 new DialogInterface.OnClickListener() {
