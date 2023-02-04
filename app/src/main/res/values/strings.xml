@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hazard Crowdsourcing</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="repo_link">https://github.com/Amirul640/hazard</string>
+
+    <string name="about_app">This application implemented for showing hazard information. Latest news and information of real time is displayed. Also, there is a map displaying a known hazards that are reported. Check out the GitHub page for the source code. ^.^</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="github_link_prefix">Click </string>
+    <string name="github_link">here</string>
+    <string name="github_link_suffix"> for the source code</string>
+</resources>
